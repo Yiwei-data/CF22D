@@ -17,7 +17,7 @@
 *     RA,B   - Spin densities                                          *
 *     D1RA,B - Spin density gradients                                  *
 *     TA,B   - Spin kinetic energy densities                           *
-*     NGrid  - number of grids                                         *
+*     NGrid  - number of grid points                                   *
 *                                                                      *
 *  RP (09/12), YZ (12/08)                                              *
 *                                                                      *
